@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git](https://github.com/joKC-tech/FAQ-accordion-fm)
-- Live Site URL: [Add live site URL here](jokc-tech.github.io/FAQ-accodion-fm)
+- Live Site URL: [Live](https://jokc-tech.github.io/FAQ-accordion-fm/)
 
 ## My process
 

@@ -106,3 +106,9 @@ p {
         margin: auto
     }
 }
+
+@media (min-width: 1441px) {
+    body {
+        background-size:100%;
+    }
+}
